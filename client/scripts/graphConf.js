@@ -15,8 +15,8 @@ const REST_TIMEOUT = 2000
 
 
 // Graph configuration
-const default_nb_of_layers = 3;
-const node_limit_per_request = 50;
+const DEFAULT_NB_OF_LAYERS = 3;
+const NODE_LIMIT_PER_REQUEST = 50;
 
 // Simulation
 const force_strength = -600;

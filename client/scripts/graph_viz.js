@@ -138,7 +138,7 @@ var graph_viz = (function () {
 	var layers = (function () {
 		// Submodule that handles layers of visualization
 
-		var nb_layers = default_nb_of_layers;
+		var nb_layers = DEFAULT_NB_OF_LAYERS;
 		var old_Nodes = [];
 		var old_Links = [];
 
